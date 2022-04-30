@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisul-islam&label=Profile%20views&color=23c72e&style=flat-square" alt="faisul-islam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faisul-islam" alt="faisul-islam" /></a> </p>
-
 - Reach me at **faisul35-476@diu.edu.bd**
 
 <h3 align="left">Connect with me:</h3>
