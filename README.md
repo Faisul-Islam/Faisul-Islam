@@ -5,7 +5,6 @@
 
 - Reach me at **faisul35-476@diu.edu.bd**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
